@@ -1,6 +1,6 @@
 # Food Overflow
 
-
+[![Build Status](https://travis-ci.org/zafralafra/recetas.svg?branch=master)](https://travis-ci.org/zafralafra/recetas)
 
 Nos han solicitado el desarrollo de una aplicación que ayude a sus usuarios a organizar su dieta. Para ello, deberán suministrar datos sobre su salud y preferencias alimenticias, los cuales serán utilizados para, entre otras cosas, recomendarles qué comer. 
 
