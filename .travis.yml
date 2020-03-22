@@ -3,8 +3,4 @@ jdk:
   - oraclejdk11
 script:
   - mvn -e -DTRAVIS_JOB_ID=$TRAVIS_JOB_ID clean install jacoco:report coveralls:report
-notifications:
-  email:
-    - gustavososa92@gmail.com
-    - cristiannahuel95@gmail.com
 
