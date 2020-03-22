@@ -1,6 +1,6 @@
 # Food Overflow
 
-[![Build Status](https://www.travis-ci.com/algo2-unsam/tp-recetas-2020-gr-7.svg?token=asiWHyHmpHjAYHYGzs1z&branch=master)](https://www.travis-ci.com/algo2-unsam/tp-recetas-2020-gr-7)
+
 
 Nos han solicitado el desarrollo de una aplicación que ayude a sus usuarios a organizar su dieta. Para ello, deberán suministrar datos sobre su salud y preferencias alimenticias, los cuales serán utilizados para, entre otras cosas, recomendarles qué comer. 
 
